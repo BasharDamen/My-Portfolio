@@ -142,9 +142,9 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          Besides my field of study in Accounting, I am
-                          interested and motivated in learning Software
-                          Developing.
+                          I’m a well educated aspiring person who is
+                          passionate and motivated to learn new ideas and
+                          skills in Software Development.
                         </p>
                         <a href="#pablo" onClick={(e) => e.preventDefault()}>
                           Show more
